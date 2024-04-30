@@ -1,6 +1,20 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sumon Islam</h1>
 <h3 align="center">Expert in JS, JAVA, PHP, SQLti Database|| Android App Developer Panchagarh, Bangladesh</h3>
+
+
+<h1 align="center">About me:</h1>
+<h3 align="center">Ever wonder what magic happens when tech meets creativity? Dive in to see how I blend art and code to craft bespoke digital experiences. As a seasoned developer, I've journeyed through the realms of JS, JAVA, Dart, Flutter, PHP & LARAVEL, focusing on Android, iOS, and web applications that resonate and engage.
+
+Three years ago, I embarked on my coding journey driven by a simple curiosity: how do digital platforms that shape our daily lives come into existence? Since then, my curiosity has evolved into a passion, compelling me to master various technologies
+
+On a mission to solve problems through code, I continually refine my skills to stay ahead of tech curves. I believe in collaborative growth, sharing knowledge and insights with my peers through coding workshops and tech meetups.
+
+Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!
+
+✉️ Email: sumon-34@outlook.com</h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SumonSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="SumonSoftware" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SumonSoftware&theme=" alt="SumonSoftware" /></a> </p>
