@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />'
+
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=SumonSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="SumonSoftware" /> </h1>
 <h1 align="left">Hi 👋, I'm Sumon Islam</h1>
 <h3 align="left">Expert in JS, JAVA, PHP, SQLti Database|| Android App Developer Panchagarh, Bangladesh</h3>
 
@@ -15,7 +17,7 @@ Got an exciting project or challenge in mind? 📩 Let's connect and bring your 
 ✉️ Email: sumon-34@outlook.com</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumonSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="SumonSoftware" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SumonSoftware&theme=" alt="SumonSoftware" /></a> </p>
 
