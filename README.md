@@ -17,59 +17,6 @@ Got an exciting project or challenge in mind? 📩 Let's connect and bring your 
 ✉️ Email: sumon-34@outlook.com</h3>
 
 
-<!DOCTYPE html>
-
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Copy Code To Clipboard | CodingLab</title>
-    <link rel="stylesheet" href="style.css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body>
-    <div class="text-boxes">
-      <div class="text-box HTMLBox">
-        <div class="topic">HTML Code:</div>
-        <textarea id="HTMLBox" readonly>
-        Add HTML Code Here
-      </textarea
-        >
-        <button id="HTMLButton">Copy Codes</button>
-      </div>
-	 
-
-    <script>
-      // HTML BOx JS Code
-      let HTMLBox = document.getElementById("HTMLBox");
-      let HTMLButton = document.getElementById("HTMLButton");
-
-      HTMLButton.onclick = function () {
-        HTMLBox.select();
-        document.execCommand("copy");
-        HTMLButton.innerText = "Codes Copied";
-      };
-
-      // CSS Box Js Code
-      let CSSBox = document.getElementById("CSSBox");
-      let CSSButton = document.getElementById("CSSButton");
-
-      CSSButton.onclick = function () {
-        CSSBox.select();
-        document.execCommand("copy");
-        CSSButton.innerText = "Codes Copied";
-      };
-      // JavaScript BOx JS Code
-      let JSBox = document.getElementById("JSBox");
-      let JSButton = document.getElementById("JSButton");
-
-      JSButton.onclick = function () {
-        JSBox.select();
-        document.execCommand("copy");
-        JSButton.innerText = "Codes Copied";
-      };
-    </script>
-  </body>
-</html>
 
 
 
